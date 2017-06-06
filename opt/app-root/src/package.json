@@ -1,9 +1,0 @@
-{
-    "name": "JSON-Proxy-List",
-    "description": "JSON Proxy List",
-    "version": "0.1.0",
-    "author": "Alvaro Fernandez (nishinishi, American man...)",
-    "main": "main.js",
-    "repository": "https://github.com/nishinishi9998/JSON-Proxy-List",
-    "license": "GPL-3.0"
-}
