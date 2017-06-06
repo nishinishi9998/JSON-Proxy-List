@@ -1,7 +1,7 @@
 {
   "name": "jsonproxy",
   "version": "0.0.1",
-  "private": true,
+  "description": "JSON Proxy List",
   "main": "./bin/www",
   "license": "GPL-3.0",
   
