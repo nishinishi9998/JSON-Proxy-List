@@ -1,5 +1,4 @@
 var fs       = require('fs');
-var jsonfile = require('jsonfile');
 var request  = require('request');
 var xmldoc   = require('xmldoc');
 
