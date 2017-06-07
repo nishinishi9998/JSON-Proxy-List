@@ -18,7 +18,10 @@
     "jade": "~1.11.0",
     "morgan": "~1.8.1",
     "serve-favicon": "~2.4.2",
+    
+    "jquery": ">=3.2.1",
     "request": ">=1.0.0",
-    "xmldoc": ">=1.0.0"
+    "xmldoc": ">=1.0.0",
+    "jsonfile": ">=2.4.0"
   }
 }
