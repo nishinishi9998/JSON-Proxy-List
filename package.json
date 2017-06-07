@@ -4,6 +4,7 @@
   "description": "JSON Proxy List",
   "main": "./bin/www",
   "license": "GPL-3.0",
+  "repository": "https://github.com/nishinishi9998/JSON-Proxy-List",
   
   "scripts": {
     "start": "node ./bin/www"
